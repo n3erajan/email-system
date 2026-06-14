@@ -156,14 +156,14 @@ The system follows a **distributed, event-driven architecture** with asynchronou
 ### Prerequisites
 
 - Docker & Docker Compose
-- Custom DNS Server (https://github.com/neerajann/dns-server) - **Only required for external domain emails**. Emails between users within your domain work without DNS server.
+- Custom DNS Server (https://github.com/n3erajann/dns-server) - **Only required for external domain emails**. Emails between users within your domain work without DNS server.
 
 ### Installation
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/neerajann/email-system.git
+   git clone https://github.com/n3erajann/email-system.git
    cd email-system
    ```
 
