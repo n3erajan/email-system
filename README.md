@@ -141,7 +141,7 @@ The system follows a **distributed, event-driven architecture** with asynchronou
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 - **Email Authentication** - SPF, DKIM, and DMARC verification
 - **Greylisting** - Temporary rejection senders with multiple failed Email Authentication to prevent spam
@@ -151,7 +151,7 @@ The system follows a **distributed, event-driven architecture** with asynchronou
 
 ---
 
-## 📦 Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 
@@ -201,7 +201,7 @@ The system follows a **distributed, event-driven architecture** with asynchronou
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 email-system/
@@ -280,6 +280,6 @@ For testing and demonstration purposes, a multi-server setup was created using D
 **Nirajan Paudel**
 
 - LinkedIn: www.linkedin.com/in/nirajan-paudel-a9b052265
-- GitHub: https://github.com/neerajann
+- GitHub: https://github.com/n3erajann
 
 ---
